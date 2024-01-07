@@ -1,0 +1,3 @@
+MONGODB_HOST: mongodb.awsdevops.space # submit your host
+REDIS_HOST: redis.awsdevops.space
+CATALOGUE_HOST: catalogue.awsdevops.space
